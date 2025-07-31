@@ -10,11 +10,11 @@
 ## Instalación
 1. clona el repositorio:
 
-   git clone https://github.com/tu-usuario/instagram-publisher.git/
+   git clone https://github.com/Angelliberto/Insta-Bot
 
 2. Accede al directorio del proyecto:
 
-  cd instagram-publisher
+  cd insta-bot
 
 3. Instalar dependecias
   

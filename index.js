@@ -48,7 +48,7 @@ const fetchDriveMedia = async () => {
     const files = response.data.files;
 
     if (!files || files.length === 0) {
-      console.error("⚠️ No se encontraron archivos en la carpeta.");
+      console.error("No se encontraron archivos en la carpeta.");
       return null;
     }
 
